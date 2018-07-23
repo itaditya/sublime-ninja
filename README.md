@@ -1,4 +1,4 @@
-# sublime-ninja
+# Sublime Ninja
 Become a sublime ninja and get 100x productivity boosts.
 
 ## How to work on a project-
