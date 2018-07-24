@@ -42,6 +42,11 @@ Other must use editing shortcuts -
 1. `Ctrl + Home` to go to start of file. `Ctrl + End` to go to end of file.
 1. `Ctrl + [` to decrease indentation of selected lines by one unit. `Ctrl + ]` to increase.
 
+Moar Links -
+
+* [Good Roundup of Plugins and Shortcuts](https://generalassemb.ly/blog/sublime-text-3-tips-tricks-shortcuts/)
+* [Sublime Text For Javascript](https://benmccormick.org/2012/12/30/sublime-text-for-javascript-keyboard-shortcuts/)
+* [Exhaustive List](https://gist.github.com/mrliptontea/4c793ebdf72ed145bcbf)
 
 
 To further supercharge your workflow, we recommend you to go through these-
